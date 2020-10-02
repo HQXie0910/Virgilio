@@ -1,6 +1,6 @@
 # [Virgilio Data Science](https://virgili0.github.io/Virgilio/)
 
-Virgilio is an open source initiative, aiming to mentor and guide anyone in the world of Data Science and Machine Learning through a series of curated articles, guides and tutorials. Our vision is to give *everyone* the chance to get involved in this field, get self-started as a practitioner, gain new cutting edge practical skills and learn to navigate through the infinite web of resources and find the ones useful for *you*.
+Virgilio is an open source initiative, aiming to mentor and guide anyone in the world of Data Science and Machine Learning through a series of curated articles, guides and tutorials. Our vision is to give *everyone* the chance to get involved in this field, get self-started as a practitioner, gain new cutting edge practical skills and learn to navigate through the infinite web of resources and find the ones useful for *you*. 
 
 ## [Click here to access the new web version of Virgilio](https://virgili0.github.io/Virgilio/)
 
@@ -178,3 +178,7 @@ That's awesome! Check the [contribution guidelines](docs/contributing.md) and ge
 ### License
 
 Contents are released under the Creative Commons BY-NC-SA 4.0 [license](https://github.com/virgili0/Virgilio/blob/dev/LICENSE). Code is released under the [MIT license](https://github.com/virgili0/Virgilio/blob/dev/.vuepress/LICENSE).
+
+
+
+Thanks for reading
